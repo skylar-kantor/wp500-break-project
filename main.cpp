@@ -5,7 +5,6 @@
 #include "PinNamesTypes.h"
 #include "mbed.h"
 #include "mbed_thread.h"
-#include "1802.h"
 #include <string>
 
 int direction = 0;
